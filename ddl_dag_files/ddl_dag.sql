@@ -107,5 +107,5 @@ CREATE TABLE IF NOT EXISTS public.scd_employee_strikes(
     sc_6 numeric DEFAULT 0,
     sc_7 numeric DEFAULT 0,
     sc_8 numeric DEFAULT 0,
-    sc_9 numeric DEFAULT 0s
+    sc_9 numeric DEFAULT 0
 );
